@@ -1,0 +1,12 @@
+body {
+    background-color: #313338;
+}
+
+.day {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    min-height: 100vh;
+  }
